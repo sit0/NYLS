@@ -1,2 +1,5 @@
-# rdr
-RDR
+# NYLS
+```
+$ ./pack.sh
+$ vagrant up
+```
